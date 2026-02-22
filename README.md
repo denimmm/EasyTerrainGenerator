@@ -1,4 +1,6 @@
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/5e4f520c-ad60-4b9d-8a48-f1ed2703671a" />
+<img width="400" height="253" alt="imag3432234234234e" src="https://github.com/user-attachments/assets/4440c508-c6b7-4343-874b-356df5ffb698" />
+
 
 # EasyTerrainGenerator
 Easy Terrain is a Roblox plugin which allows the user to create performant, massive terrain using heightmaps.
