@@ -28,4 +28,6 @@ To view the source code you can open it in Roblox studio or view the XML with a 
 **Video Demonstration:**
 https://youtu.be/gj1J22GmFkM?si=QdTLLNJYrqUG1nwk
 
+If you would like to use this plugin for your game, please give me attribution with a simple message such as ```Terrain Generated with Denim MacDougall's Easy Terrain plugin``` or similar in either the game's description or a credits UI in the game. If you'd like,  I would also appreciate an email or comment with a link to your game so I can showcase it on the github repository or a youtube video
+
 
