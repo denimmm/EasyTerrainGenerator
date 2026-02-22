@@ -10,7 +10,8 @@ To view the source code you can open it in Roblox studio or view the XML with a 
 **Features:**
 * Large-scale triangel terrain generation
 * Terrain shape determined by heightmaps
-* Easy scaling both vertically and along XZ axis
+* Easy scaling both vertically and along XZ plane
+* Terrain divided into chunks by default allowing for optimization through a simple chunking script
 * Prebaking spawnpoints for mobs, resources, etc.
 * Biomes configurable with config file and biomemap
 * Realistic distribution of foliage and other terrain features using Poisson-Disk sampling
