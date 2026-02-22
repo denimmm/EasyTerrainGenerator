@@ -15,7 +15,7 @@ To view the source code you can open it in Roblox studio or view the XML with a 
 
 **How to Install**
 * Download the RBXMX file and place it in your roblox plugins folder (C:\Users\<your_username>\AppData\Local\Roblox\Plugins)
-* Open a Studio instance and click on the icon in your plugins tab
+* Open a Studio instance and click on the Easy Terrain icon in your plugins tab
 
 **Editing The Config**
 * Easy Terrain will automatically create a config for you in ServerStorage.EasyTerrainConfig
