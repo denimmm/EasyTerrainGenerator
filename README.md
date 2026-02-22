@@ -13,6 +13,10 @@ To view the source code you can open it in Roblox studio or view the XML with a 
 * Biomes configurable with config file and biomemap
 * Realistic distribution of foliage and other terrain features using Poisson-Disk sampling
 
+**How to Install**
+* Download the RBXMX file and place it in your roblox plugins folder (C:\Users\<your_username>\AppData\Local\Roblox\Plugins)
+* Open a Studio instance and click on the icon in your plugins tab
+
 **Editing The Config**
 * Easy Terrain will automatically create a config for you in ServerStorage.EasyTerrainConfig
 * It will also automatically create an Assets/Features folder in your ReplicatedStorage
